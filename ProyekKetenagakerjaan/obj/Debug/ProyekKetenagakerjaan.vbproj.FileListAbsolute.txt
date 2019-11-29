@@ -1,0 +1,40 @@
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.dll
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.pdb
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.xml
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.Resources.resources
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.vbproj.GenerateResource.Cache
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.dll
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.xml
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.pdb
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.dll
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.pdb
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.xml
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.Resources.resources
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.vbproj.GenerateResource.Cache
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.dll
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.xml
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.pdb
+C:\Users\BARUAK\Documents\Visual Studio 2010\Projects\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.Resources.resources
+C:\Users\BARUAK\Documents\Visual Studio 2010\Projects\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.vbproj.GenerateResource.Cache
+C:\Users\BARUAK\Documents\Visual Studio 2010\Projects\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.dll
+C:\Users\BARUAK\Documents\Visual Studio 2010\Projects\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.xml
+C:\Users\BARUAK\Documents\Visual Studio 2010\Projects\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.pdb
+C:\Users\BARUAK\Documents\Visual Studio 2010\Projects\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.dll
+C:\Users\BARUAK\Documents\Visual Studio 2010\Projects\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.pdb
+C:\Users\BARUAK\Documents\Visual Studio 2010\Projects\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.xml
+C:\Users\Shodan-PC\Documents\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.dll
+C:\Users\Shodan-PC\Documents\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.pdb
+C:\Users\Shodan-PC\Documents\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.xml
+C:\Users\Shodan-PC\Documents\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.Resources.resources
+C:\Users\Shodan-PC\Documents\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.vbproj.GenerateResource.Cache
+C:\Users\Shodan-PC\Documents\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.dll
+C:\Users\Shodan-PC\Documents\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.xml
+C:\Users\Shodan-PC\Documents\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.pdb
+C:\Users\Shodan\Desktop\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.dll
+C:\Users\Shodan\Desktop\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.pdb
+C:\Users\Shodan\Desktop\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.xml
+C:\Users\Shodan\Desktop\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.Resources.resources
+C:\Users\Shodan\Desktop\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.vbproj.GenerateResource.Cache
+C:\Users\Shodan\Desktop\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.dll
+C:\Users\Shodan\Desktop\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.xml
+C:\Users\Shodan\Desktop\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.pdb
